@@ -11,6 +11,7 @@ const tableInfo = [
         nbrPlaces: 2,
         posX: 1,
         posY: 3,
+        libre: false
     },
     {
         table: 2,
@@ -18,6 +19,7 @@ const tableInfo = [
         nbrPlaces: 4,
         posX: 2,
         posY: 3,
+        libre: false
     },
     {
         table: 3,
@@ -25,6 +27,7 @@ const tableInfo = [
         nbrPlaces: 4,
         posX: 2,
         posY: 6,
+        libre: false
     },
     {
         table: 4,
@@ -32,6 +35,7 @@ const tableInfo = [
         nbrPlaces: 8,
         posX: 4,
         posY: 7,
+        libre: false
     },
     {
         table: 5,
@@ -39,6 +43,7 @@ const tableInfo = [
         nbrPlaces: 6,
         posX: 5,
         posY: 6,
+        libre: false
     }
 ];
 
